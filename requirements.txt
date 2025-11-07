@@ -1,0 +1,9 @@
+torch>=2.3.0
+torchvision>=0.18.0
+pytorch-lightning>=2.3.0
+albumentations>=1.4.7
+opencv-python>=4.10.0
+pandas>=2.2.0
+numpy>=1.26.0
+streamlit>=1.36.0
+matplotlib>=3.8.0
